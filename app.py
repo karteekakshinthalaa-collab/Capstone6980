@@ -34,7 +34,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-FIG_DIR = os.path.join(os.path.dirname(__file__), "figures")
+FIG_DIR = os.path.dirname(__file__)
 
 
 # ---------------------------------------------------------------------------
